@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jake, I'm a Minecraft Texture pack developer, A lead on [Skade Gaming](https://skadegaming.com/), And a content creator on [Youtube](https://www.youtube.com/@jplays_12)
+I'm Jake, I'm a Minecraft Texture pack developer, A lead on [Skade Gaming](https://skadegaming.com/), And a content creator on [Youtube](https://www.youtube.com/@jplays_12), I also code in Javascript!
 
 My Pronouns are **He/They** and im autistic and I'm gay 🏳️‍🌈
 
