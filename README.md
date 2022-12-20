@@ -1,10 +1,13 @@
-Ohi Im Jake, Im gay, Autistic, Non Binary and from the uk!
+# Ohi 👋
+In Jake, Im gay, Autistic
 
 - Pronouns : he/They
 
 <a href="#">
   <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Jakeplays12&count_private=true&show_icons=true&theme=transparent" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeplays12&layout=compact)](https://github.com/Jakeplays12/github-readme-stats)
 
 ## Socials
 
