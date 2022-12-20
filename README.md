@@ -3,13 +3,9 @@ In Jake, Im gay, Autistic
 
 - Pronouns : he/They
 
-<a href="#">
-  <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Jakeplays12&count_private=true&show_icons=true&theme=transparent" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeplays12&langs_count=10&theme=transparent&&layout=compact" />
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=Jakeplays12&count_private=true&show_icons=true&theme=transparent)
 
+![TotalLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeplays12&langs_count=10&theme=transparent&&layout=compact)
 ## Socials
 
 [![](https://img.shields.io/badge/-Mastodon-purple)](https://universeodon.com/@jplays_12)
