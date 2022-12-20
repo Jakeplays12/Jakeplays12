@@ -6,8 +6,9 @@ In Jake, Im gay, Autistic
 <a href="#">
   <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Jakeplays12&count_private=true&show_icons=true&theme=transparent" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeplays12&layout=compact)](https://github.com/Jakeplays12/github-readme-stats)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeplays12&langs_count=10&theme=transparent&&layout=compact" />
+</a>
 
 ## Socials
 
