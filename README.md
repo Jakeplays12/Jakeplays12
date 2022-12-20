@@ -2,6 +2,9 @@ Ohi Im Jake, Im gay, Autistic, Non Binary and from the uk!
 
 - Pronouns : he/They
 
+<a href="#">
+  <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Jakeplays12&count_private=false&show_icons=true&theme=cobalt" />
+</a>
 
 ## Socials
 
