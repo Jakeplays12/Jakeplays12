@@ -6,4 +6,4 @@
 - YouTube : [@Jakeplays12](https://www.youtube.com/channel/UC2dh_DhAFeVl-3iNrnmZpew)
 
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109366588458385263?domain=https%3A%2F%2Funiverseodon.com%2F&style=social)
+[![](https://img.shields.io/badge/Mastodon-Mastodon-purple)](https://universeodon.com/@jplays_12)
