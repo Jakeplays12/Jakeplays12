@@ -6,6 +6,7 @@ My Pronouns are **He/They** and im autistic and I'm gay 🏳️‍🌈
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jakeplays12&count_private=true&show_icons=true&theme=transparent)
 
 ![TotalLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeplays12&langs_count=10&theme=transparent&&layout=compact)
+**These Images May Be Broken. API Seems to be having problems**
 
 ## Socials
 
