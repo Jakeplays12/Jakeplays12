@@ -13,5 +13,6 @@ My Pronouns are **He/They** and im autistic and I'm gay 🏳️‍🌈
 [![](https://img.shields.io/badge/-Mastodon-purple)](https://universeodon.com/@jplays_12)
 [![](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/jplays_12)
 [![](https://img.shields.io/badge/-Youtube-red)](https://www.youtube.com/@jplays_12)
-[![](https://img.shields.io/badge/-twitch-blueviolet)](https://www.twitch.tv/jakeplays_12)
-[![](https://img.shields.io/badge/-twitch-green)](https://linktr.ee/jakeplays12)
+[![](https://img.shields.io/badge/-Twitch-blueviolet)](https://www.twitch.tv/jakeplays_12)
+[![](https://img.shields.io/badge/-Linktree-blueviolet)](https://linktr.ee/jakeplays12)
+
