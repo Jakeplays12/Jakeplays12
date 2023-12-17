@@ -1,19 +1,27 @@
-### Hi there 👋
-I'm Jake, I'm a Minecraft Texture pack developer, lead on [Skade Gaming](https://skadegaming.com/), and a content creator on [Youtube](https://www.youtube.com/@jplays_12), I also code in Javascript!
+<div align="center">
 
-My Pronouns are **They/He** and im autistic and I'm gay 🏳️‍🌈
+# Hi there 👋 Im Jake (They/He)
+I am a skilled student with a strong passion for pursuing a career in the I.T field.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jakeplays12&count_private=true&show_icons=true&theme=transparent)
+In my free time, I am a Web Developer, Skade Gaming lead, and a small content creator.
 
-![TotalLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeplays12&langs_count=10&theme=transparent&&layout=compact)
+</div><div align=center>
+  
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=jakeplays12&layout=compact&theme=shades-of-purple">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeplays12&layout=compact&theme=shades-of-purple">
+ </div><br><div align=center>
+   
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jplays_12/)
+[![Threads](https://img.shields.io/badge/threads-333?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@jplays_12)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2dh_DhAFeVl-3iNrnmZpew)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jakeplays_12)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jakeplays12)
+[![Modrinth](https://img.shields.io/badge/modrinth-16181c?style=for-the-badge&logo=modrinth&logoColor=00bd3c)](https://modrinth.com/user/Jakeplays12)
+  </div>
+ <div align=center>
+  
+[![ThemeParkFansUK](https://img.shields.io/badge/ThemeParkFansUK-bb96d9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fvxUth9gTN)
+[![QueerGooseFamily](https://img.shields.io/badge/QueerGooseFamily-be3bff?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Booomie_](https://img.shields.io/badge/Booomie__-d31fb2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AQyb5GzAf3)
 
-
-## Socials
-
-[![](https://img.shields.io/badge/-Linktree-green)](https://linktr.ee/jakeplays12)
-[![](https://img.shields.io/badge/-Mastodon-purple)](https://universeodon.com/@jplays_12)
-[![](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/jplays_12)
-[![](https://img.shields.io/badge/-Youtube-red)](https://www.youtube.com/@jplays_12)
-[![](https://img.shields.io/badge/-Twitch-blueviolet)](https://www.twitch.tv/jakeplays_12)
-[![](https://img.shields.io/badge/-PlanetMinecraft-success)](https://www.planetminecraft.com/member/jakeplays12/)
-[![](https://img.shields.io/badge/-Tiktok-informational)](https://www.tiktok.com/@jakeplays_12)
+  </div
