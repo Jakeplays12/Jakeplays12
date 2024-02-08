@@ -20,7 +20,7 @@ In my free time, I am a Web Developer, Skade Gaming lead, and a small content cr
   </div>
  <div align=center>
   
-[![ThemeParkFansUK](https://img.shields.io/badge/ThemeParkFansUK-bb96d9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fvxUth9gTN)
+[![ThemeParkFansUK](https://img.shields.io/badge/ThemeParkFansUK-007B7B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fvxUth9gTN)
 [![QueerGooseFamily](https://img.shields.io/badge/QueerGooseFamily-be3bff?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Booomie_](https://img.shields.io/badge/Booomie__-d31fb2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AQyb5GzAf3)
 
