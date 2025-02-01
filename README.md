@@ -15,7 +15,7 @@ In my free time, I am a Web Developer, Skade Gaming lead, and a small content cr
 [![Threads](https://img.shields.io/badge/threads-333?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@jplays_12)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2dh_DhAFeVl-3iNrnmZpew)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jakeplays_12)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jakeplays12)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jakeplays12)
 [![GitHub](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jakeplays12)
 [![Modrinth](https://img.shields.io/badge/modrinth-16181c?style=for-the-badge&logo=modrinth&logoColor=00bd3c)](https://modrinth.com/user/Jakeplays12)
   </div>
